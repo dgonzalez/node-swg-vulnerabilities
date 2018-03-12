@@ -1,6 +1,6 @@
 {
   "name": "swg-vulnerabilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js Security Working Group vulnerabilities",
   "main": "index.js",
   "scripts": {
