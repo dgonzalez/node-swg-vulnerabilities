@@ -1,0 +1,8 @@
+{
+  "name": "swg-vulnerabilities",
+  "version": "1.0.0",
+  "description": "Node.js Security Working Group vulnerabilities",
+  "main": "index.js",
+  "author": "David Gonzalez (nodearth@gmail.com)",
+  "license": "MIT"
+}
